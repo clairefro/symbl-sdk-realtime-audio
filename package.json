@@ -1,0 +1,13 @@
+{
+  "name": "sdk-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Claire Froelich",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "8.2.0",
+    "mic": "2.1.2",
+    "symbl-node": "1.0.13",
+    "uuid": "8.3.2"
+  }
+}
