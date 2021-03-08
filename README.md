@@ -1,4 +1,4 @@
-## symbl.ai sdk test
+## Realtime audio transcription with insights via the symbl.ai SDK
 
 Tests [symbl.ai](https://docs.symbl.ai/docs/)'s sdk for supporting realtime audio transcript with live insights feed. 
 
